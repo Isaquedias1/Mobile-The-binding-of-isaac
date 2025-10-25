@@ -4,3 +4,25 @@ Neste projeto, trabalhamos em um aplicativo mobile que utiliza a api do jogo cha
 
 >[!IMPORTANT]
 > Todas as telas do protótipo e suas funcionalidades estão presentes na wiki do projeto.
+
+### Sumário
+
+[Home](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki)
+
+- [Sumário](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki#sum%C3%A1rio)
+
+[Funções do aplicativo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Fun%C3%A7%C3%B5es-do-aplicativo)
+
+- [Objetivo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Fun%C3%A7%C3%B5es-do-aplicativo#objetivo)
+
+- [Funções](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Fun%C3%A7%C3%B5es-do-aplicativo#fun%C3%A7%C3%B5es)
+
+  - [Botões](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Fun%C3%A7%C3%B5es-do-aplicativo#bot%C3%B5es)
+
+[Telas](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Telas)
+
+- [O que tem em cada tela](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Telas#o-que-tem-em-cada-tela)
+
+- [Imagens](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Telas#imagens)
+
+- [A troca das telas](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Telas#a-troca-das-telas)
