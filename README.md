@@ -18,6 +18,10 @@ Neste projeto, trabalhamos em um aplicativo mobile que utiliza a api do jogo cha
 
 - [Sumário](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki#sum%C3%A1rio)
 
+[A api](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/A-api)
+
+- [Acesso](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/A-api#acesso)
+
 [Funções do aplicativo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Fun%C3%A7%C3%B5es-do-aplicativo)
 
 - [Objetivo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Fun%C3%A7%C3%B5es-do-aplicativo#objetivo)
