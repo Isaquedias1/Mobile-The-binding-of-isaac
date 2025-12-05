@@ -38,6 +38,6 @@ Neste projeto, trabalhamos em um aplicativo mobile que utiliza a api do jogo cha
 
 - [A troca das telas](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/Telas#a-troca-das-telas)
 
-- [O aplicativo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/O-aplicativo)
+[O aplicativo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/O-aplicativo)
 
 - [Video do app](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/O-aplicativo#video-do-app)
