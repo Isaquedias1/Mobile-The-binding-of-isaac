@@ -45,3 +45,17 @@ O objetivo do aplicativo era passar informações de uma API, porém no dia 05/1
 - [Video do app](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/O-aplicativo#video-do-app)
 
 [Scripts](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS)
+
+- [Main](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#maindart)
+
+- [Menu](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#menudart)
+
+- [Creditos](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#creditosdart)
+
+- [Personagens](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#personagensdart)
+
+- [Itens](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#itensdart)
+
+- [Chefes](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#chefesdart)
+
+- [Classes](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS#classesdart-todas-as-classes-utilizadas)
