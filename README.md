@@ -43,3 +43,5 @@ O objetivo do aplicativo era passar informações de uma API, porém no dia 05/1
 [O aplicativo](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/O-aplicativo)
 
 - [Video do app](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/O-aplicativo#video-do-app)
+
+[Scripts](https://github.com/Isaquedias1/Mobile-The-binding-of-isaac/wiki/SCRIPTS)
