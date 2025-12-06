@@ -2,7 +2,7 @@
 
 Neste projeto, trabalhamos em um aplicativo mobile que utiliza a api do jogo chamado The Binding of Isaac e será utilizado as imagens que são entregues por ela dentro do aplicativo. O intuito do aplicativo é passar informações com relação aos itens, personagens e chefes do jogo explicando sobre quantidade de vida, habilidades extras ou ataques utilizados.
 
-O objetivo do aplicativo era passar informações de uma API, porém no dia 05/12 ela caiu e perdemos o acesso a ela impedindo a possiblidade de demonstrar o aplicativo funcionando por completo.
+O objetivo do aplicativo era passar informações de uma API, porém no dia 05/12 ela caiu e perdemos o acesso a ela impedindo a possibilidade de demonstrar o aplicativo funcionando por completo.
 
 3° Programação de jogos digitais
 
